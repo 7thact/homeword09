@@ -1,0 +1,29 @@
+{
+  "name": "homeword09",
+  "version": "1.0.0",
+  "description": "GitHub PDF Creator",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "inquirer": "^7.0.3",
+    "pdfkit": "^0.11.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7thact/homeword09.git"
+  },
+  "keywords": [
+    "PDF"
+  ],
+  "author": "Charles Cressey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7thact/homeword09/issues"
+  },
+  "homepage": "https://github.com/7thact/homeword09#readme"
+}
