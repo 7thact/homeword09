@@ -1,5 +1,16 @@
 # homeword09
 
-//makes call to GitHub api
-//then asks user for fav color
-//then generates a pdf of the GithHub profile
+Technologies Used:
+
+Node
+inquirer
+google maps location
+
+
+Directions:
+
+Run command 'node index.js' in the terminal.
+Input your github username when prompted.
+Select your favorite color when prompted.
+
+A PDF will be generated with your github information.
