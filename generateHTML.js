@@ -1,9 +1,9 @@
 const colors = {
     green: {
-      wrapperBackground: "#E6E1C3",
+      wrapperBackground: "#4bd43b",
       headerBackground: "#228c16",
-      headerColor: "black",
-      photoBorderColor: "#black"
+      headerColor: "white",
+      photoBorderColor: "#228c16"
     },
     blue: {
       wrapperBackground: "#5F64D3",
@@ -12,10 +12,10 @@ const colors = {
       photoBorderColor: "#73448C"
     },
     pink: {
-      wrapperBackground: "#879CDF",
+      wrapperBackground: "#e8a2c2",
       headerBackground: "#FF8374",
       headerColor: "white",
-      photoBorderColor: "#FEE24C"
+      photoBorderColor: "#edc7e6"
     },
     red: {
       wrapperBackground: "#DE9967",
